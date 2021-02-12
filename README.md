@@ -1,3 +1,7 @@
 # webpt28example
 
-Testing testing 123.
+WebPT28 is super cool.
+
+Keiran is awesome :)
+
+- Connor Boatman
